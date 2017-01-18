@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<!-- Diseases -->
+	<BadMigraine.label>Zware migraine</BadMigraine.label>
+	<BodyRestart.label>fysisch heropstarten</BodyRestart.label>
+	<Rewire.label>Veranderings ziekte</Rewire.label>
+	
+	<Braindeath.label>trage hersen dood</Braindeath.label>
+	  <Braindeath.stages.0.label>gering</Braindeath.stages.0.label>
+      <Braindeath.stages.1.label>groot</Braindeath.stages.1.label>
+      <Braindeath.stages.2.label>extreem</Braindeath.stages.2.label>
+      <Braindeath.stages.3.label>extreem</Braindeath.stages.3.label>
+      <Braindeath.stages.4.label>extreem</Braindeath.stages.4.label>
+  
+	
+	
+</LanguageData>

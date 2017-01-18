@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Wrong.stages.0.label>Voel me... verkeerd</Wrong.stages.0.label>
+    <Wrong.stages.0.description>Er is iets dat... verkeert aanvoelt.</Wrong.stages.0.description>
+	
+	<Confused.stages.0.label>Verward</Confused.stages.0.label>
+    <Confused.stages.0.description>Ik... Ik doe niet eens... wat?</Confused.stages.0.description>
+	
+	<Wrecked.stages.0.label>Gesloopt</Wrecked.stages.0.label>
+    <Wrecked.stages.0.description>Ik kan niet meer! Ik... HELP!</Wrecked.stages.0.description>
+	
+	<Scrambled.stages.0.label>mentaal verbrijzeld</Scrambled.stages.0.label>
+    <Scrambled.stages.0.description>pffggurgl...Aaaaaa....</Scrambled.stages.0.description>
+	
+	
+</LanguageData>

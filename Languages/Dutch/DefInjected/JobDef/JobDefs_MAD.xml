@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<EnterMAD.reportString>Stapt de MAD in</EnterMAD.reportString>
+	
+	<OpenMAD.reportString>Opent de MAD </OpenMAD.reportString>
+	
+	<CarryToMAD.reportString>Vervoerd de 'patient' naar de MAD</CarryToMAD.reportString>
+	
+</LanguageData>

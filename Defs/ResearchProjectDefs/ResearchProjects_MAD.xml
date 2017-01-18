@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResearchProjectDefs>
+
+    <ResearchProjectDef>
+		<defName>MADresearch</defName>
+		<label>Mind Alterating Device</label>
+		<description>Don't like your personality? Change it now with the Mind Altering Device!</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Industrial</techLevel>
+	</ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>MADresearchStory</defName>
+    <label>MAD change your past!</label>
+    <description>Don't like your past? Change it now with the Mind Altering Device! (or at least your memories of it!)</description>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>MADresearch</li>
+  </prerequisites>
+  </ResearchProjectDef>
+  
+  
+</ResearchProjectDefs>
