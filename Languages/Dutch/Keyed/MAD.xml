@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <EnterMad>Stap de MAD in</EnterMad>
+  <OpenMad>Open de MAD</OpenMad>
+
+  <MAD_SwitchProcess>Schakelaar proces</MAD_SwitchProcess>
+
+  <MAD_CurrentProcessTraits>Huidige proces ingesteld op wijzigen eigenschappen.</MAD_CurrentProcessTraits>
+  <MAD_SwitchProcessToBackstory>Schakelaar proces op wijzigen achtergrond.</MAD_SwitchProcessToBackstory>
+  
+  <MAD_CurrentProcessBackstory>Huidige proces ingesteld op wijzigen achtergrond.</MAD_CurrentProcessBackstory>
+  <MAD_SwitchProcessToTraits>Schakelaar proces op wijzigen eigenschappen.</MAD_SwitchProcessToTraits>
+ 
+</LanguageData>
