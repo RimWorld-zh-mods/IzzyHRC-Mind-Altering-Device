@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Wrong.stages.0.label>感觉……不对</Wrong.stages.0.label>
+  <Wrong.stages.0.description>有些东西感觉……不对。</Wrong.stages.0.description>
+
+  <Confused.stages.0.label>混乱</Confused.stages.0.label>
+  <Confused.stages.0.description>我……我甚至……什么？</Confused.stages.0.description>
+
+  <Wrecked.stages.0.label>精神失常</Wrecked.stages.0.label>
+  <Wrecked.stages.0.description>不能！我……救命！</Wrecked.stages.0.description>
+
+  <Scrambled.stages.0.label>精神错乱</Scrambled.stages.0.label>
+  <Scrambled.stages.0.description>咦诶哇呃呼呼……啊啊啊啊啊啊……</Scrambled.stages.0.description>
+
+
+</LanguageData>

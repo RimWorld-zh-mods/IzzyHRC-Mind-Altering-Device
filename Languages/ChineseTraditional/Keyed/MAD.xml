@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EnterMad>進入思維修改器</EnterMad>
+  <OpenMad>打開思維修改器</OpenMad>
+
+  <MAD_SwitchProcess>切換程式</MAD_SwitchProcess>
+
+  <MAD_CurrentProcessTraits>當前程式設定為修改特性。</MAD_CurrentProcessTraits>
+  <MAD_SwitchProcessToBackstory>切換程式為修改背景故事。</MAD_SwitchProcessToBackstory>
+
+  <MAD_CurrentProcessBackstory>當前程式設定為修改背景故事。</MAD_CurrentProcessBackstory>
+  <MAD_SwitchProcessToTraits>切換程式為修改特性。</MAD_SwitchProcessToTraits>
+
+</LanguageData>

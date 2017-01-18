@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MindAlteringDevice.label>思维修改器</MindAlteringDevice.label>
+  <MindAlteringDevice.description>不喜欢你的人物特性？那就用思维修改器吧！</MindAlteringDevice.description>
+  <MindAlteringDevice_Blueprint.label>思维修改器（蓝图）</MindAlteringDevice_Blueprint.label>
+  <MindAlteringDevice_Frame.label>思维修改器（建造中）</MindAlteringDevice_Frame.label>
+
+
+</LanguageData>
