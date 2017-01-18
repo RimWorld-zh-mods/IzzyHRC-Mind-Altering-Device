@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <EnterMad>Enter the Mind Altering Device</EnterMad>
+  <OpenMad>Open the Mind Altering Device</OpenMad>
+
+  <MAD_SwitchProcess>Switch Process</MAD_SwitchProcess>
+
+  <MAD_CurrentProcessTraits>Current process set to change traits.</MAD_CurrentProcessTraits>
+  <MAD_SwitchProcessToBackstory>Switch process to change: backstory.</MAD_SwitchProcessToBackstory>
+  
+  <MAD_CurrentProcessBackstory>Current process set to change: backstory.</MAD_CurrentProcessBackstory>
+  <MAD_SwitchProcessToTraits>Switch process to change traits.</MAD_SwitchProcessToTraits>
+
+</LanguageData>

@@ -11,9 +11,9 @@ namespace MAD
         public static string Inspect(string state)
         {
             if (state == "trait")
-            return "Current process set to change traits.";
+            return "MAD_CurrentProcessTraits".Translate();
 
-            return "Current process set to change: backstory.";
+            return "MAD_CurrentProcessBackstory".Translate();
         }
 
         public static Texture2D Icon(string state)
@@ -25,16 +25,16 @@ namespace MAD
 
         public static string defaultLabel()
         {
-                return "Switch Process";
+                return "MAD_SwitchProcess".Translate();
             
         }
 
         public static string defaultDesc(string state)
         {
             if (state == "trait")
-                return "Switch process to change: backstory.";
+                return "MAD_SwitchProcessToBackstory".Translate();
 
-            return "Switch process to change traits.";
+            return "MAD_SwitchProcessToTraits".Translate();
         }
 
     }
@@ -42,16 +42,16 @@ namespace MAD
     public struct MADState
     {
         public static StateStructure MAD_trait = new StateStructure(
-            "Switch Process",
-            "Switch process to change: backstory.",
+            "MAD_SwitchProcess".Translate(),
+            "MAD_SwitchProcessToBackstory".Translate(),
             ContentFinder<Texture2D>.Get("UI/Commands/MAD_trait", true),
-            "Current process set to change traits.",
+            "MAD_CurrentProcessTraits".Translate(),
             "trait");
         public static StateStructure MAD_story = new StateStructure(
-            "Switch Process",
-            "Switch process to change traits.",
+            "MAD_SwitchProcess".Translate(),
+            "MAD_SwitchProcessToTraits".Translate(),
             ContentFinder<Texture2D>.Get("UI/Commands/MAD_story", true),
-            "Current process set to change: backstory.",
+            "MAD_CurrentProcessBackstory".Translate(),
             "story");
 
 
